@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1607456732",
+        "python_version": "3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\guifg\\AppData\\Local\\Programs\\Python\\Python38\\Scripts\\mlagents-learn C:\\FlappyBird\\Assets\\AI\\MovSapo.yaml --run-id=MovSapooo --env=C:\\FlappyBird\\Build\\FlappyBird.app --time-scale=50 --quality-level=0 --width=512 --height=512 --resume",
+        "mlagents_version": "0.22.0",
+        "mlagents_envs_version": "0.22.0",
+        "communication_protocol_version": "1.2.0",
+        "pytorch_version": "1.7.0",
+        "numpy_version": "1.19.4",
+        "end_time_seconds": "1607456738"
+    },
+    "total": 5.8783203,
+    "count": 1,
+    "self": 0.387252300000001,
+    "children": {
+        "run_training.setup": {
+            "total": 0.007719999999999949,
+            "count": 1,
+            "self": 0.007719999999999949
+        },
+        "TrainerController.start_learning": {
+            "total": 5.4833479999999994,
+            "count": 1,
+            "self": 8.519999999911931e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 5.171016,
+                    "count": 1,
+                    "self": 5.171016
+                },
+                "TrainerController._save_models": {
+                    "total": 0.3122468000000005,
+                    "count": 1,
+                    "self": 0.005674900000000704,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.3065718999999998,
+                            "count": 1,
+                            "self": 0.3065718999999998
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

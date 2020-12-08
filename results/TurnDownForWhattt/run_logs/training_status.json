@@ -1,0 +1,48 @@
+{
+    "MovSapo": {
+        "checkpoints": [
+            {
+                "steps": 4999936,
+                "file_path": "results\\TurnDownForWhattt\\MovSapo\\MovSapo-4999936.onnx",
+                "reward": null,
+                "creation_time": 1607434549.4743457
+            },
+            {
+                "steps": 5499968,
+                "file_path": "results\\TurnDownForWhattt\\MovSapo\\MovSapo-5499968.onnx",
+                "reward": null,
+                "creation_time": 1607435613.6793807
+            },
+            {
+                "steps": 5999936,
+                "file_path": "results\\TurnDownForWhattt\\MovSapo\\MovSapo-5999936.onnx",
+                "reward": null,
+                "creation_time": 1607436681.0820556
+            },
+            {
+                "steps": 6000896,
+                "file_path": "results\\TurnDownForWhattt\\MovSapo\\MovSapo-6000896.onnx",
+                "reward": null,
+                "creation_time": 1607436681.1634007
+            },
+            {
+                "steps": 6000896,
+                "file_path": "results\\TurnDownForWhattt\\MovSapo\\MovSapo-6000896.onnx",
+                "reward": null,
+                "creation_time": 1607444034.770836
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6000896,
+            "file_path": "results\\TurnDownForWhattt\\MovSapo.onnx",
+            "reward": null,
+            "creation_time": 1607444034.770836
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0",
+        "tensorflow_version": -1
+    }
+}

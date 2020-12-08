@@ -1,0 +1,1119 @@
+Mono path[0] = 'C:/FlappyBird/Build/FlappyBird_Data/Managed'
+Mono config path = 'C:/FlappyBird/Build/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.4f1 (1f1dac67805b)
+[Subsystems] Discovering subsystems at path C:/FlappyBird/Build/FlappyBird_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   27.21.14.5730
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.072 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.385400 ms
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libdl.so
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/FlappyBird/Build/FlappyBird_Data/Mono/libSystem.dylib
+WARNING: The communication API versions between Unity and python differ at the minor version level. Python API: 1.2.0, Unity API: 1.0.0 Python Library Version: 0.22.0 .
+This means that some features may not work unless you upgrade the package with the lower version.Please find the versions that work best together from our release page.
+https://github.com/Unity-Technologies/ml-agents/releases 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Python package version (0.22.0) is out of the supported range or not from an official release. It is strongly recommended that you use a Python package between 0.16.1 and 0.20.0. Training will proceed, but the output format may be different. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+38 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+80 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+34 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+50 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+72 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+58 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+96 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+28 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+34 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+54 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+66 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+74 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+46 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+74 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+28 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+62 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+58 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+38 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+52 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+46 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+38 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+46 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+30 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+48 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+66 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+80 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+82 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+30 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+54 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+48 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+28 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+54 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+80 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-6 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+30 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+-8 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4798 -> priority: 1 
+  Thread -> id: 1348 -> priority: 1 
+  Thread -> id: 4040 -> priority: 1 
